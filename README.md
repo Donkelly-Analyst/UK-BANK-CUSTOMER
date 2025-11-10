@@ -1,0 +1,104 @@
+# UK-BANK-CUSTOMER
+
+## Table of Content
+
+- [Project Overview](#poject-overveiw)
+- [Data Sources](#data-Sources)
+- [ Tools](#tools)
+- [Data Cleaning/Preparation](#data-Cleaning-Preparation)
+- [Exploration Data Analysis](Exploration-Data-Analysis)
+- [Data Analysis](Data-Analysis)
+- [Key Insights](Key-Insights)
+- [Recommendations](Recommendations)
+- [Limitations]( Limitations)
+
+
+
+### Project Overveiw
+
+The UK Bank Customer Dataset includes columns like age, income, balance, and account type of bank users and so on. This helps analysts understand customer behavior, predict trends, and improve banking services by turning raw financial data into meaningful insights about how people manage money.
+
+### Data Sources
+
+The primary dataset used for this analysis is the "UK-BANK-CUSTOMER.CSV" file, containing details about the customers behaviour.
+
+### Tools
+
+- Excel - Data Cleaning
+  - [Download here](https://Microsoft.com)
+- MY SQL - Data Analysis
+- Power BI - Creating Reports
+
+
+  ### Data Cleaning/Preparation
+
+1. Performed in Excel
+2. Promoted Headers of the dataset
+3. Data Loading and inspection
+4. Removed missing or invalid values 
+5. Filtered Rows
+6. Added Additional columns
+7. Merged Queries
+
+
+###  Exploration Data Analysis
+
+This analysis is to acquire valuable insights and a 
+comprehensive understanding of the behavior, preferences and patterns 
+exhibited by customers within the United Kingdom banking sector.  
+Through a detailed examination of various factors, we aim to uncover key 
+trends and dynamics that can contribute to a deeper appreciation of the 
+customer landscape, ultimately providing valuable information for 
+informed decision-making within the UK banking industry.
+
+
+### Data Analysis
+write specila codes you wrote
+```sql
+select * from Uk
+where =2
+```
+
+### Key Insights
+
+
+- Smoking & Hypertension: Out of 568 smokers, 71.83% (408) have hypertension. Among non-smokers (1,417), 44.04% (624) have hypertension.
+- Smokers have a significantly higher rate of hypertension compared to non-smokers.
+- Family History & BP: 63.18% (652) of individuals with hypertension have a positive family history of high blood pressure.
+- Normal BP: 5.09K sleep hours (39.73%)
+- Prehypertension: 4.0K sleep hours (31.22%)
+- Hypertension: 3.72K sleep hours (29.05%)
+- Individuals with hypertension tend to sleep less than those with normal BP
+
+
+### Recommendations
+
+1. Target Smokers for Hypertension Screening
+2. Create focused campaigns to monitor and manage BP among smokers, as they are at higher risk.
+3. Family History-Based Risk Assessment
+4. Use family history as a key screening variable for early intervention strategies.
+5. Promote Sleep Hygiene Programs
+6. Encourage better sleep patterns, especially among hypertensive and prehypertensive individuals, to improve cardiovascula
+
+
+### Limitations
+
+
+While cleaning the UK Bank Customer Dataset with Excel Power Query, I noticed some limitations. The process became slow when handling large data from multiple sources, and performing complex transformations, especially statistical cleaning, was quite challenging. These limitations made the overall data preparation process take more time than expected.
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
