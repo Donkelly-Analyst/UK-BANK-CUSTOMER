@@ -4,6 +4,7 @@
 
 - [Project Overveiw](#poject-overveiw)
 - [Data Sources](#Data-Sources)
+- [Sample Preview](#Sample-Preview)
 - [Tools](#tools)
 - [Data Cleaning-Preparation](#data-Cleaning-Preparation)
 - [Exploration Data Analysis](Exploration-Data-Analysis)
@@ -30,7 +31,18 @@ The UK Bank Customer Dataset includes columns like age, income, balance, and acc
 
 ### Data Sources
 
-The primary dataset used for this analysis is the "UK-BANK-CUSTOMER.CSV" file, containing details about the customers behaviour.
+The primary dataset used for this analysis is the "UK-BANK-CUSTOMER.CSV" file, containing details about the customers behaviou
+
+
+
+
+### Sample Preview
+
+|Age|Salt Intake| Stress Score| BP History-ID| Sleep Duration| BMI |Medications| Family History| Exercise Level | Smoking Status | Has Hypertension|
+|---|-----------|-------------|--------------|---------------|-----|-----------|---------------|----------------|----------------|------------------|
+|69| 8.0| 9| Normal| 6.4| 25.8| None| Yes| Low| Non-Smoker| Yes|
+|32| 11.7| 10| Normal| 5.4| 23.4| None| No| Low| Non-Smoker| No|                                                                                                                         
+
 
 ### Tools
 
