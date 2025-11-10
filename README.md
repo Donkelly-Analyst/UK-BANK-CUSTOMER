@@ -1,6 +1,6 @@
-# UK-BANK-CUSTOMERS
+# **UK-BANK-CUSTOMERS**
 
-## Table of Content
+## *Table of Content*
 
 - [Project Overveiw](#poject-overveiw)
 - [Data Sources](#Data-Sources)
@@ -15,7 +15,7 @@
 
 
 
-### Project Overveiw
+### *Project Overveiw*
 
 The UK Bank Customer Dataset includes columns like age, income, balance, and account type of bank users and so on. This helps analysts understand customer behavior, predict trends, and improve banking services by turning raw financial data into meaningful insights about how people manage money.
 
@@ -29,14 +29,14 @@ The UK Bank Customer Dataset includes columns like age, income, balance, and acc
 
 
 
-### Data Sources
+### *Data Sources*
 
 The primary dataset used for this analysis is the "UK-BANK-CUSTOMER.CSV" file, containing details about the customers behaviou
 
 
 
 
-### Sample Preview
+### *Sample Preview*
 
 |Age|Salt Intake| Stress Score| BP History-ID| Sleep Duration| BMI |Medications| Family History| Exercise Level | Smoking Status | Has Hypertension|
 |---|-----------|-------------|--------------|---------------|-----|-----------|---------------|----------------|----------------|------------------|
@@ -44,7 +44,7 @@ The primary dataset used for this analysis is the "UK-BANK-CUSTOMER.CSV" file, c
 |32| 11.7| 10| Normal| 5.4| 23.4| None| No| Low| Non-Smoker| No|                                                                                                                         
 
 
-### Tools
+### *Tools*
 
 - Excel - Data Cleaning
   - [Download here](https://Microsoft.com)
@@ -52,7 +52,7 @@ The primary dataset used for this analysis is the "UK-BANK-CUSTOMER.CSV" file, c
 - Power BI - Creating Reports
 
 
-  ### Data Cleaning/Preparation
+  ### *Data Cleaning/Preparation*
 
 1. Performed in Excel
 2. Promoted Headers of the dataset
@@ -63,7 +63,7 @@ The primary dataset used for this analysis is the "UK-BANK-CUSTOMER.CSV" file, c
 7. Merged Queries
 
 
-###  Exploration Data Analysis
+###  *Exploration Data Analysis*
 
 This analysis is to acquire valuable insights and a 
 comprehensive understanding of the behavior, preferences and patterns 
@@ -74,14 +74,14 @@ customer landscape, ultimately providing valuable information for
 informed decision-making within the UK banking industry.
 
 
-### Data Analysis
+### *Data Analysis*
 write specila codes you wrote
 ```sql
 select * from Uk
 where =2
 ```
 
-### Key Insights
+### *Key Insights*
 
 
 - Smoking & Hypertension: Out of 568 smokers, 71.83% (408) have hypertension. Among non-smokers (1,417), 44.04% (624) have hypertension.
@@ -93,7 +93,7 @@ where =2
 - Individuals with hypertension tend to sleep less than those with normal BP
 
 
-### Recommendations
+### *Recommendations*
 
 1. Target Smokers for Hypertension Screening
 2. Create focused campaigns to monitor and manage BP among smokers, as they are at higher risk.
@@ -103,7 +103,7 @@ where =2
 6. Encourage better sleep patterns, especially among hypertensive and prehypertensive individuals, to improve cardiovascula
 
 
-### Limitations
+### *Limitations*
 
 
 While cleaning the UK Bank Customer Dataset with Excel Power Query, I noticed some limitations. The process became slow when handling large data from multiple sources, and performing complex transformations, especially statistical cleaning, was quite challenging. These limitations made the overall data preparation process take more time than expected.
