@@ -1,4 +1,4 @@
-# UK-BANK-CUSTOMER
+# UK-BANK-CUSTOMERS
 
 ## Table of Content
 
@@ -17,6 +17,16 @@
 ### Project Overveiw
 
 The UK Bank Customer Dataset includes columns like age, income, balance, and account type of bank users and so on. This helps analysts understand customer behavior, predict trends, and improve banking services by turning raw financial data into meaningful insights about how people manage money.
+
+
+<img width="1313" height="769" alt="Screenshot 2025-11-10 191620" src="https://github.com/user-attachments/assets/fbe86c6a-5f86-42fc-a597-591ecc54b13f" />
+
+
+<img width="1330" height="759" alt="Screenshot 2025-11-10 192231" src="https://github.com/user-attachments/assets/8ee0d667-341a-4905-be82-47f6187b8a9c" />
+
+
+
+
 
 ### Data Sources
 
