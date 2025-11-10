@@ -2,10 +2,10 @@
 
 ## Table of Content
 
-- [Project Overview](#poject-overveiw)
-- [Data Sources](#data-Sources)
-- [ Tools](#tools)
-- [Data Cleaning/Preparation](#data-Cleaning-Preparation)
+- [Project Overveiw](#poject-overveiw)
+- [Data Sources](#Data-Sources)
+- [Tools](#tools)
+- [Data Cleaning-Preparation](#data-Cleaning-Preparation)
 - [Exploration Data Analysis](Exploration-Data-Analysis)
 - [Data Analysis](Data-Analysis)
 - [Key Insights](Key-Insights)
