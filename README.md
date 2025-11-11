@@ -75,10 +75,57 @@ informed decision-making within the UK banking industry.
 
 
 ### *Data Analysis*
-write specila codes you wrote
-```sql
-select * from Uk
-where =2
+
+```SQL Codes
+SELECT *
+FROM [UK Bank Customers]
+
+---Total customers by age group
+
+SELECT (age) As age_group, COUNT(Customer_ID) AS total_customers
+FROM [UK Bank Customers]
+GROUP BY age
+Order by age DESC;
+
+---Job classification by gender
+
+SELECT Job_Classification, gender, COUNT(CUSTOMER_ID) AS total_customers
+FROM [UK Bank Customers]
+GROUP BY job_classification, gender;
+
+
+--- Balance by job classification and region
+
+SELECT job_classification, region, SUM(balance) AS total_balance
+FROM [UK Bank Customers]
+GROUP BY job_classification, region;
+
+---Total customers by region
+
+SELECT region, COUNT(Distinct(Customer_ID)) AS total_customers
+FROM [UK Bank Customers]
+GROUP BY region;
+
+--- Total balance by age group
+
+SELECT (age) AS age_group , SUM(balance) AS total_balance
+FROM [UK Bank Customers]
+GROUP BY age
+ORDER BY AGE DESC;
+
+---Total balance by region
+
+SELECT region, SUM(balance) AS total_balance
+FROM [UK Bank Customers]
+GROUP BY region;
+
+---Total balance by gender
+
+SELECT gender, SUM(balance) AS total_balance
+FROM [UK Bank Customers]
+GROUP BY gender
+ORDER BY total_balance DESC;
+
 ```
 
 ### *Key Insights*
