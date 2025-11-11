@@ -31,7 +31,7 @@ The UK Bank Customer Dataset includes columns like age, income, balance, and acc
 
 ### *Data Sources*
 
-The primary dataset used for this analysis is the "UK-BANK-CUSTOMER.CSV" file, containing details about the customers behaviou
+The primary dataset used for this analysis is the "UK-BANK-CUSTOMER.CSV" file, containing details about the customers behaviour.
 
 
 
