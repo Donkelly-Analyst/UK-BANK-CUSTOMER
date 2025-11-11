@@ -36,12 +36,10 @@ The primary dataset used for this analysis is the "UK-BANK-CUSTOMER.CSV" file, c
 
 
 
-### *Sample Preview*
+### *Column headers Sample Preview*
 
-|Age|Salt Intake| Stress Score| BP History-ID| Sleep Duration| BMI |Medications| Family History| Exercise Level | Smoking Status | Has Hypertension|
-|---|-----------|-------------|--------------|---------------|-----|-----------|---------------|----------------|----------------|------------------|
-|69| 8.0| 9| Normal| 6.4| 25.8| None| Yes| Low| Non-Smoker| Yes|
-|32| 11.7| 10| Normal| 5.4| 23.4| None| No| Low| Non-Smoker| No|                                                                                                                         
+|CUSTOMER_ID|NAME|SURNAME|GENDER|AGE|REGION|JOB_CLASSIFICATION|DATE_JOINED|BALANCE|
+|-----------|----|-------|------|---|------|------------------|-----------|-------|
 
 
 ### *Tools*
