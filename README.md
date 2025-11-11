@@ -129,23 +129,23 @@ ORDER BY total_balance DESC;
 ### *Key Insights*
 
 
-- Smoking & Hypertension: Out of 568 smokers, 71.83% (408) have hypertension. Among non-smokers (1,417), 44.04% (624) have hypertension.
-- Smokers have a significantly higher rate of hypertension compared to non-smokers.
-- Family History & BP: 63.18% (652) of individuals with hypertension have a positive family history of high blood pressure.
-- Normal BP: 5.09K sleep hours (39.73%)
-- Prehypertension: 4.0K sleep hours (31.22%)
-- Hypertension: 3.72K sleep hours (29.05%)
-- Individuals with hypertension tend to sleep less than those with normal BP
-
+- The bank serves a total of 4,014 customers, with men slightly outnumbering women.
+- Young adults and early middle-aged customers make up the largest share and hold the highest balances.
+- These groups represent the bank’s most financially active and valuable customer base.
+- England leads in both customer count and total balance, followed by Scotland.
+- Wales and Northern Ireland have fewer customers and lower balances, showing potential for expansion.
+- Men dominate blue-collar jobs, while women are more in white-collar and professional roles; men hold higher total balances, but women show strong growth potential.
 
 ### *Recommendations*
 
-1. Target Smokers for Hypertension Screening
-2. Create focused campaigns to monitor and manage BP among smokers, as they are at higher risk.
-3. Family History-Based Risk Assessment
-4. Use family history as a key screening variable for early intervention strategies.
-5. Promote Sleep Hygiene Programs
-6. Encourage better sleep patterns, especially among hypertensive and prehypertensive individuals, to improve cardiovascula
+1. Focus on middle-aged and young adult customers with tailored products like investments, mortgages, and savings incentives.
+2. Expand engagement in Wales and Northern Ireland through financial education and community programs.
+3. Improve digital banking access to reach underrepresented regions.
+4. Provide targeted financial solutions for women, including business funding and investment packages.
+5. Promote financial literacy and savings habits among younger customers.
+6. Aim to build long-term loyalty and secure future account holders through consistent engagement.
+
+
 
 
 ### *Limitations*
